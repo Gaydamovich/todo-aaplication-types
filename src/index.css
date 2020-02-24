@@ -1,0 +1,83 @@
+label {
+  color: #673ab7;
+  margin-right: 1rem;
+}
+
+.nav-title {
+  padding-left: 2rem;
+}
+
+.wrapper-time {
+  margin-top: 1rem;
+  font-size: 1.7rem;
+  font-family: "Segoe UI";
+  text-align: center;
+  color: #513359;
+}
+
+.wrapper-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.list-length {
+  text-align: right;
+  padding-right: .5rem;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding: .7rem 2.6rem;
+  background-color: #f3e6ff;
+  border-radius: .3rem;
+}
+
+.default {
+  font-size: 1.1rem;
+  color: #717077;
+  font-family: "Segoe WP";
+}
+
+.checked {
+  color: #9a9b97;
+  text-decoration: line-through;
+}
+
+.counter {
+  margin-right: 1rem;
+  color: #673ab7;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.icon-remove {
+  margin-left: .7rem;
+}
+
+.icon-remove:hover {
+  cursor: pointer;
+}
+
+.warning {
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: "Segoe UI";
+}
+
+.empty {
+  padding: 2rem;
+  font-size: 1.3rem;
+  text-align: center;
+  font-family: "Segoe UI";
+}
